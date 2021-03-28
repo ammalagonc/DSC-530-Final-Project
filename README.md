@@ -1,4 +1,4 @@
-# DSC-530-Final-Project
+# Hurricane and Weather - Exploratory Data Analysis
 DSC-530 Final Project Repository
 
 ## About The Project
